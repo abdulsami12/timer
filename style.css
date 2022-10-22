@@ -1,0 +1,46 @@
+input{
+    border: none;
+    color: aliceblue;
+}
+body{
+    color: bisque;
+}
+
+.pont{
+font-size: 25px;
+
+}
+
+
+
+.start, .stop ,.reset{
+    width: 110px;
+    height: 40px;
+    border-radius: 8px ;
+    font-size: large;
+    margin-left: 10px;
+    color: wheat;
+}
+
+.start{
+    border-color: #2ab617e8;
+    background-color: #2ab617 ;
+}
+.stop{
+    border-color: #1b26c0a8;
+    background-color: #1b26c0;
+}
+.reset{
+    border-color: #c01b1ba6;
+background-color:  #c01b1b;
+}
+
+
+.incr{
+position: relative;
+left: -12px;
+top: 25px;
+transform: rotate(136deg);
+display:inline-block;
+
+}
